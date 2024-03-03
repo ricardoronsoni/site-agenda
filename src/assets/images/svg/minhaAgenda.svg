@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="73"
+   height="72"
+   viewBox="0 0 73 72"
+   fill="none"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="minhaAgenda.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="16.180556"
+     inkscape:cx="36.525322"
+     inkscape:cy="36"
+     inkscape:window-width="3440"
+     inkscape:window-height="1371"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <circle
+     cx="36.5"
+     cy="36"
+     r="35"
+     fill="white"
+     stroke="#111112"
+     stroke-width="2"
+     id="circle1" />
+  <defs
+     id="defs4">
+    <clipPath
+       id="clip0_1471_42613">
+      <rect
+         width="40"
+         height="40"
+         fill="white"
+         transform="translate(16.5 16)"
+         id="rect4" />
+    </clipPath>
+  </defs>
+  <path
+     d="m 35.993161,57.805305 -0.01622,-0.007 -0.05098,-0.02781 a 35.334547,35.334547 0 0 1 -0.887593,-0.50521 58.354029,58.354029 0 0 1 -9.835365,-7.346396 c -5.332511,-4.97562 -10.982516,-12.359096 -10.982516,-21.45287 0,-6.785568 5.71026,-12.166745 12.602431,-12.166745 a 12.746114,12.746114 0 0 1 9.992954,4.755459 12.746114,12.746114 0 0 1 9.995271,-4.755459 c 6.889854,0 12.600114,5.381177 12.600114,12.166745 0,9.096091 -5.650005,16.479567 -10.982516,21.450552 a 58.342442,58.342442 0 0 1 -9.835365,7.346397 35.334547,35.334547 0 0 1 -0.887593,0.507527 l -0.05098,0.02781 -0.01622,0.0093 -0.007,0.0023 a 1.7427415,1.7427415 0 0 1 -1.631502,0 l -0.007,-0.0023 z"
+     id="path1"
+     style="fill:#ff0000;stroke-width:2.31748" />
+</svg>
